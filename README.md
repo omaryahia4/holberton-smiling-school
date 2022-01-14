@@ -5,5 +5,5 @@ i don't have a lot of instruction, i'm free to implement it the way that i want.
 the objective is simple: 
 -   Have fully functional web pages that look the same as the designer file.
 <p>
-<img src="design.png">
+<img src="design.jpg">
 </p>
